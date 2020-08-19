@@ -14,7 +14,7 @@ do
     if [[ $IGNORE_TIME -eq 1 ]]; then
       if echo $date | grep 00:00 > /dev/null; then
         echo " - {{[[TODO]]}} $title $project $ADD_TAG"
-        todoist close $id
+        /usr/local/bin/todoist close $id
       fi
     fi
 done < <(/usr/local/bin/todoist --csv list --filter 'today')
