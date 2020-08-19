@@ -23,6 +23,7 @@ For example, I continue to use Todoist for:
 * macOS
 * Alfred
 * Homebrew
+* [Todoist CLI](https://github.com/sachaos/todoist)
 
 ## Setup
 
