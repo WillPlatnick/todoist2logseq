@@ -4,6 +4,10 @@ In combination with https://github.com/WilliamDurin/gcal-roam, I use this plugin
 
 **This is very rough and not meant to be plug and play. It is completely unsupported. I just wanted to put it out there to be a base start for others.**
 
+Demo Video:
+
+[![Demo Video](https://img.youtube.com/vi/AEK0-ZU8m_8/0.jpg)](https://youtu.be/AEK0-ZU8m_8)
+
 ## Background
 
 Once I'm in Roam, it makes a lot of sense to add todo items in the process of note taking because of what you gain from having tasks in with the context of what created the task.
