@@ -6,7 +6,7 @@ ADD_TAG="#Today"
 # If you want to ignore tasks with a specific time, set this to 1
 IGNORE_TIME=1
 
-todoist sync
+/usr/local/bin/todoist sync
 
 while IFS=, read -r id priority date project labels title
 do
